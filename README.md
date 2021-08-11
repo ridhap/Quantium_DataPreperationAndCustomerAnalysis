@@ -1,19 +1,47 @@
 # Quantium Virtual Experience Program in Data Analytics
 
-- This is program consists of 3 tasks 
-- All these code files were my personal submissions for this program. Except the data files which were assigned by Quantium.
+- 
+
+---
+### InsideSherpa
+
+## Who is Quantium?
+
+Quantium is leading data science and AI Firm, founded in Australia in 2002 and offers a 17-year track record of innovation in data science.
+Quantium combines the best of human and artificial intelligence to power possibilities for individuals, organisations, and society.
+
+
+# [Quantium Data Analytics Virtual Experience Program](https://www.insidesherpa.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics%20Virtual%20Experience%20Program#lp)
+This is program consists of 3 tasks 
+- All these code files were my personal submissions for this program. 
+- Except the data files which were assigned by Quantium.
 - [Certificate](https://github.com/ridhap/Quantium_DataPreperationAndCustomerAnalysis/blob/master/Data%20Visualizations/0001.jpg)
 
 ---
 
-## Code and Resources Used
+### Code and Resources Used
+**Python Version:** 3.7\
+**Packages:** pandas, numpy, sklearn, matplotlib, datetime, scipy, mlxtend
 
-**Python Version:** 3.7
+**Built with**
 
-**Packages:** pandas, numpy, seaborn, sklearn, matplotlib, datetime, scipy
+- [R](https://www.r-project.org/)
+- [R studio](https://rstudio.com/)
+- [Jupyter Notebook](https://jupyter.org/)
 
+
+**Installation**
+
++ Download R Software: https://cran.r-project.org/
+
++ Install required libraries:
+
+```r 
+install.packages("ggplot2")
+install.packages("ggmosaic")
+install.packages("readr")
+``` 
 ---
-
 ### Task 1 - Data preparation and Customer Analytics
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
