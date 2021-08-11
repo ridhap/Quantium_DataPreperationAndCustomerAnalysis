@@ -136,8 +136,8 @@ March and April trial months for trial store 77
 
 Feb, March and April trial months for trial store 86
 
-![Total Sales Trial vs Control1](https://github.com/ShrishtiHore/Quantium_Virtual_Experience_Program/blob/main/Data%20Visualizations/Task%202/Compare%20performance%201.png) 
-![Total Sales Trial vs Control2](https://github.com/ShrishtiHore/Quantium_Virtual_Experience_Program/blob/main/Data%20Visualizations/Task%202/Compare%20performance%202.png) 
+![Total Sales Trial vs Control1](https://github.com/ridhap/Quantium_DataPreperationAndCustomerAnalysis/blob/main/Data%20Visualizations/Task%202/Compare%20performance%201.png) 
+![Total Sales Trial vs Control2](https://github.com/ridhap/Quantium_DataPreperationAndCustomerAnalysis/blob/main/Data%20Visualizations/Task%202/Compare%20performance%202.png) 
 ![Total Sales Trial vs Control3](https://github.com/ShrishtiHore/Quantium_Virtual_Experience_Program/blob/main/Data%20Visualizations/Task%202/Compare%20performance%203.png)
 ![nCustomers Trial vs Control1](https://github.com/ShrishtiHore/Quantium_Virtual_Experience_Program/blob/main/Data%20Visualizations/Task%202/Full_Year_Observations%204.png) 
 ![nCustomers Trial vs Control2](https://github.com/ShrishtiHore/Quantium_Virtual_Experience_Program/blob/main/Data%20Visualizations/Task%202/Full_Year_Observations%205.png) 
@@ -171,8 +171,14 @@ Feb, March and April trial months for trial store 86
 5. Content balance
 6. Layout and content display
 7. Summary / next steps
+----
 
-#### Final Report 
-- Use analytics and insights from Task 1 and 2 to prepare a report for the client, the Category Manager.
-- Delivered the insights and recommendaions to the client in PowerPoint presentation along with easy to understand data visualizations.
+### Task 3 - Analytics and commercial application
+Use analytics and insights from Task 1 and 2 to prepare a report for the client, the Category Manager.
+- Used Pyramid Principle method to deliver insigths and recommendation to client in Powerpoint.
 
+----
+
+### License
+
+This project is licensed under the [MIT](https://github.com/minji-mia/Quantium-Virtual-Internship/blob/main/LICENSE) License
