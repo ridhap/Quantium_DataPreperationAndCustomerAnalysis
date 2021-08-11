@@ -2,6 +2,7 @@
 
 - This is program consists of 3 tasks 
 - All these code files were my personal submissions for this program. Except the data files which were assigned by Quantium.
+- [Certificates](https://github.com/ridhap/Quantium_DataPreperationAndCustomerAnalysis/blob/master/Data%20Visualizations/0001.jpg)
 
 ---
 
