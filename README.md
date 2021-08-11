@@ -136,8 +136,8 @@ March and April trial months for trial store 77
 
 Feb, March and April trial months for trial store 86
 
-![Total Sales Trial vs Control1](https://github.com/ridhap/Quantium_DataPreperationAndCustomerAnalysis/blob/main/Data%20Visualizations/Task%202/Compare%20performance%201.png) 
-![Total Sales Trial vs Control2](https://github.com/ridhap/Quantium_DataPreperationAndCustomerAnalysis/blob/main/Data%20Visualizations/Task%202/Compare%20performance%202.png) 
+![Total Sales Trial vs Control1](https://github.com/ShrishtiHore/Quantium_Virtual_Experience_Program/blob/main/Data%20Visualizations/Task%202/Compare%20performance%201.png) 
+![Total Sales Trial vs Control2](https://github.com/ShrishtiHore/Quantium_Virtual_Experience_Program/blob/main/Data%20Visualizations/Task%202/Compare%20performance%202.png) 
 ![Total Sales Trial vs Control3](https://github.com/ShrishtiHore/Quantium_Virtual_Experience_Program/blob/main/Data%20Visualizations/Task%202/Compare%20performance%203.png)
 ![nCustomers Trial vs Control1](https://github.com/ShrishtiHore/Quantium_Virtual_Experience_Program/blob/main/Data%20Visualizations/Task%202/Full_Year_Observations%204.png) 
 ![nCustomers Trial vs Control2](https://github.com/ShrishtiHore/Quantium_Virtual_Experience_Program/blob/main/Data%20Visualizations/Task%202/Full_Year_Observations%205.png) 
