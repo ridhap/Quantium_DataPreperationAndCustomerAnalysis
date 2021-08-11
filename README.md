@@ -209,4 +209,4 @@ Use analytics and insights from Task 1 and 2 to prepare a report for the client,
 
 ### License
 
-This project is licensed under the [MIT](https://github.com/minji-mia/Quantium-Virtual-Internship/blob/main/LICENSE) License
+This project is licensed under the [MIT](https://github.com/ridhap/Quantium_DataPreperationAndCustomerAnalysis/blob/master/LICENSE) License
