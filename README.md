@@ -63,6 +63,7 @@ We need to present a strategic recommendation to Julia that is supported by data
 - Split and frequency of each word in "PROD_NAME" column. Removed all rows containing "salsa" in "PROD_QTY" column.
 - Checked for outliers and removed outliers rows in "PROD_QTY" column.
 - Each word value was counted in "PROD_NAME" column to extract the brand name. Combined brands written in multiple ways. Created a new column "Cleaned_Brand_Names".
+- 
 ![Cleaned Brand Names](https://github.com/ridhap/Quantium_DataPreperationAndCustomerAnalysis/blob/master/Data%20Visualizations/Task%201/Brand_Names.png)
 
 #### Data Analysis on Customer Segments
